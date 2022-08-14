@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shashank Hegade
-- 👀 I’m interested in python
+- 👀 I’m interested in python and java
 - 📫 How to reach me headoftheport1230@gmail.com
 
 
